@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/3b/a1/b9/3ba1b959b3c387a095a37f3bf4d2d476.jpg" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hi, I'm Rokiya Abd Elsatar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi<a href="https://github.com/RokiyaAbdElsatar" style="color:white">, I'm Rokiya Abd Elsatar </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <Br>
 <h1 style="color:white">About Me! 😎</h1>
 <ul >
@@ -58,22 +58,20 @@
 <h1>Certifications! 🏆</h1>
 <br>
 
-| [![](https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge)](https://drive.google.com/file/d/1b-IKChbw9CaXhnR5D1D2yAkYSdo4i3_M/view?usp=drive_link) | [![](https://img.shields.io/badge/English%20DEPI-blue?style=for-the-badge)](https://drive.google.com/file/d/1CWFYNBARIH500m30ictMlIRkJKTyW5H4/view?usp=drive_link)    | [![](https://img.shields.io/badge/FrontEnd%20DEPI-green?style=for-the-badge)](https://drive.google.com/file/d/1Sgx7oMwqEXLFZLt2c69H2OKuYrsLHZaO/view?usp=drive_link)        | [![](https://img.shields.io/badge/Huawei%20AI-orange?style=for-the-badge)](https://drive.google.com/file/d/1bcQmI9XT_SeQYP1f1CwIo6xz6uGEJY_0/view?usp=drive_link) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](https://img.shields.io/badge/Huawei%20Talent-yellow?style=for-the-badge)](https://drive.google.com/file/d/1bgsIqfXeqETvwFD726vyOSHE_kD479j6/view?usp=drive_link)        | [![](https://img.shields.io/badge/Python%20basics-purple?style=for-the-badge)](https://drive.google.com/file/d/1TXZ5bngO3drdRjfEDBMVJhmRdVzYD3dW/view?usp=drive_link) | [![](https://img.shields.io/badge/Robotics%20bootcamp-pink?style=for-the-badge)](https://drive.google.com/file/d/15rE5eoWxhh6Qoe9RDqyqKwoaLWzESEg5/view?usp=drive_link) | [![](https://img.shields.io/badge/UI/%20UX-teal?style=for-the-badge)](https://drive.google.com/file/d/1a1qipnyuh-KVB7_F4e21bWzgedf2oAVR/view?usp=drive_link)      |
-| [![](https://img.shields.io/badge/Web%20Development-gray?style=for-the-badge)](https://drive.google.com/file/d/11OIrbFghJzimVAD7vyccUSgPgPDFgHc-/view?usp=drive_link)        | [![](https://img.shields.io/badge/GDSC%20Hackathon-black?style=for-the-badge)](https://drive.google.com/file/d/11ZNvXxxnooaa1SkQELR6hhQYjvH-NXFd/view?usp=drive_link) |                                                                                                                                                                         |                                                                                                                                                                   |
+| [![](https://img.shields.io/badge/Huawei%20NTI%20AI-red?style=for-the-badge)](https://drive.google.com/file/d/1b-IKChbw9CaXhnR5D1D2yAkYSdo4i3_M/view?usp=drive_link)  | [![](https://img.shields.io/badge/English%20DEPI-blue?style=for-the-badge)](https://drive.google.com/file/d/1CWFYNBARIH500m30ictMlIRkJKTyW5H4/view?usp=drive_link)    | [![](https://img.shields.io/badge/FrontEnd%20-green?style=for-the-badge)](https://drive.google.com/file/d/1Sgx7oMwqEXLFZLt2c69H2OKuYrsLHZaO/view?usp=drive_link)        | [![](https://img.shields.io/badge/Huawei%20AI-orange?style=for-the-badge)](https://drive.google.com/file/d/1bcQmI9XT_SeQYP1f1CwIo6xz6uGEJY_0/view?usp=drive_link) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](https://img.shields.io/badge/Huawei%20Talent-yellow?style=for-the-badge)](https://drive.google.com/file/d/1bgsIqfXeqETvwFD726vyOSHE_kD479j6/view?usp=drive_link) | [![](https://img.shields.io/badge/Python%20basics-purple?style=for-the-badge)](https://drive.google.com/file/d/1TXZ5bngO3drdRjfEDBMVJhmRdVzYD3dW/view?usp=drive_link) | [![](https://img.shields.io/badge/Robotics%20bootcamp-pink?style=for-the-badge)](https://drive.google.com/file/d/15rE5eoWxhh6Qoe9RDqyqKwoaLWzESEg5/view?usp=drive_link) | [![](https://img.shields.io/badge/UI/%20UX-teal?style=for-the-badge)](https://drive.google.com/file/d/1a1qipnyuh-KVB7_F4e21bWzgedf2oAVR/view?usp=drive_link)      |
+| [![](https://img.shields.io/badge/Web%20Development-gray?style=for-the-badge)](https://drive.google.com/file/d/11OIrbFghJzimVAD7vyccUSgPgPDFgHc-/view?usp=drive_link) | [![](https://img.shields.io/badge/GDSC%20Hackathon-black?style=for-the-badge)](https://drive.google.com/file/d/11ZNvXxxnooaa1SkQELR6hhQYjvH-NXFd/view?usp=drive_link) | [![](https://img.shields.io/badge/AI%20Sprints-brown?style=for-the-badge)](https://drive.google.com/file/d/17wNimhwuxU9TdIcfqNQdnjIE4LeynQ-K/view?usp=sharing)          |                                                                                                                                                                   |
 
 <hr>
 
-<h1> 📊 GitHub Stats </h1>
-  <Br>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RokiyaAbdElsatar&show_icons=true&theme=tokyonight&cache_seconds=60" />
-  <Br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RokiyaAbdElsatar&show_icons=true&theme=tokyonight" />
   <Br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiyaAbdElsatar&theme=tokyonight&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiyaAbdElsatar&theme=tokyonight" />
 </p>
 
 <hr>
