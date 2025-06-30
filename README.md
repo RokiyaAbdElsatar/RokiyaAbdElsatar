@@ -2,7 +2,8 @@
   <img src="https://i.pinimg.com/736x/3b/a1/b9/3ba1b959b3c387a095a37f3bf4d2d476.jpg" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hi<a href="https://github.com/RokiyaAbdElsatar" style="color:white">, I'm Rokiya Abd Elsatar </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Rokiya Abd Elsatar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <Br>
 <h1 style="color:white">About Me! 😎</h1>
 <ul >
