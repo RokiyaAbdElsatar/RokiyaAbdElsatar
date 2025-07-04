@@ -69,10 +69,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RokiyaAbdElsatar&show_icons=true&theme=tokyonight" />
-  <Br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RokiyaAbdElsatar&show_icons=true&theme=tokyonight&cache_seconds=60" />
+  <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiyaAbdElsatar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiyaAbdElsatar&theme=tokyonight&cache_seconds=60" />
 </p>
 
 <hr>
